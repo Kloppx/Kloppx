@@ -13,7 +13,6 @@
 </div>
 <hr>
  
-##
   
 ### 💻 Linguagens e Framewoks:
 <div style="display: inline_block"><br>
@@ -23,7 +22,6 @@
 </div>
 <hr>
  
-##
   
 ### 📱 Contato:  
   <div>     
